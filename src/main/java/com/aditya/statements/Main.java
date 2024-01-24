@@ -1,4 +1,4 @@
-package org.example;
+package com.aditya.statements;
 
 public class Main {
     public static void main(String[] args) {
